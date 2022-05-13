@@ -15,6 +15,7 @@ My name is Arpit Pandeya and I am a web developer from Dehradun, Uttrakhand. I d
 <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-page" />
 <img alt="php" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-page" />
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-page" />
+<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-page" />
 <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwind&logoColor=white&style=for-the-page" />
   </p>
   
