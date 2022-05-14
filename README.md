@@ -13,10 +13,13 @@ My name is Arpit Pandeya and I am a web developer from Dehradun, Uttrakhand. I d
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-page" />
 <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-page" />
 <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-page" />
+<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-page" />
 <img alt="php" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-page" />
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-page" />
 <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-page" />
 <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwind&logoColor=white&style=for-the-page" />
+<img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-page" />
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-page" />
   </p>
   
   ---
