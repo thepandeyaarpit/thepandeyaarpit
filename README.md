@@ -1,4 +1,5 @@
-<img src="/logo.jpeg" alt="banner" />
+<!-- <img src="/logo.jpeg" alt="banner" /> -->
+<img src="banner.png" alt="banner" />
 
 ### Hi there and welcome to my GitHub page 👋
 
