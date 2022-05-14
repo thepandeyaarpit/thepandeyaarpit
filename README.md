@@ -47,7 +47,7 @@ My name is Arpit Pandeya and I am a web developer from Dehradun, Uttrakhand. I d
 
 ---
 
-### Github ststes
+### Github states
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=thepandeyaarpit&count_private=true&show_icons=true&title_color=FD9047&text_color=0C2233&custom_title=Arpit+Pandeya's+Github+Stats" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thepandeyaarpit&hide=html&layout=compact&title_color=FD9047&icon_color=0C2233&bg_color=0C2233&text_color=D6D6D6" />
