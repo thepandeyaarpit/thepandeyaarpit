@@ -21,6 +21,9 @@ My name is Arpit Pandeya and I am a web developer from Dehradun, Uttrakhand. I d
 <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwind&logoColor=white&style=for-the-page" />
 <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-page" />
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-page" />
+  <img alt="Numpy" src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white&style=for-the-page" />
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-page" />
+  <img alt="Sckit-learn " src="https://img.shields.io/badge/Scikit-learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-page" />
   </p>
   
   ---
