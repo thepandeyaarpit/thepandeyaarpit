@@ -2,8 +2,7 @@
 <img src="banner.png" alt="banner" />
 
 ### Hi there and welcome to my GitHub page 👋
-
-My name is Arpit Pandeya and I am a web developer from Dehradun, Uttrakhand. I do a lot of things, and some of them you may even find interesting. 🤞
+I'm a software developer working on my free time on several projects (as contributor or as maintainer) to bring better tools to the community. Although I have made contributions in some languages, I have focused on improving my knowledge in a few. 🤞
 
 ---
 
